@@ -21,4 +21,6 @@ dream = "to become a successful software engineer and buisness analysist";
 // console.log(dream);
 
 // console.table({pie,person,education,job,dream});
-console.table([pie,person,education,job,dream,newJob]);  
+// console.table([pie,person,education,job,dream,newJob]);  
+
+
